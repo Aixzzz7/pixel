@@ -1,0 +1,25 @@
+* {
+    font-family: "Urbanist", sans-serif;
+}
+
+body {
+    color: $colorDark;
+    overflow-x: hidden;
+    overflow-y: visible;
+}
+
+section {
+    padding: 40px 0;
+}
+
+
+
+.container {
+    max-width: 1375px;
+    // width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+
